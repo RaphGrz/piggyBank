@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/drawable-large/logo_piggybank.xml" value="0.159" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/drawable/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/drawable/mon_icone_round.xml" value="0.1" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/layout/activity_depenses.xml" value="0.30052083333333335" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/layout/activity_ecran_chargement.xml" value="0.1461499493414387" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/layout/activity_tirelire.xml" value="0.22" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/layout/fragment_depenses.xml" value="0.30052083333333335" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/layout/line_tirelire.xml" value="0.23020833333333332" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/menu/menu.xml" value="0.30052083333333335" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/menu/tirelire_menu.xml" value="0.22" />
+        <entry key="..\:/MesDocuments/Licence Informatique/S3/info0306/Projet/PiggyBank/app/src/main/res/mipmap-anydpi-v26/mon_icone.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../PiggyBankDoc" />
+    <option name="OPTION_SCOPE" value="private" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

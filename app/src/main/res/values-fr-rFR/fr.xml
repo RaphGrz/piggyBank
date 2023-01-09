@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PiggyBank</string>
+    <string name="txt_btn_create_piggy_bank">Créer ma tirelire</string>
+    <string name="ex_name_piggy_bank">Nom de ta tirelire</string>
+    <string name="txt_btn_piggy_bank_drawer">Ouvrir ma tirelire</string>
+    <string name="toastSaisieIncorrect">Saisie incorrect</string>
+    <string name="item_menu_supprimer_tirelire">Supprimer tirelire</string>
+    <string name="ajouter_une_depense">Ajouter une dépense</string>
+    <string name="edit_name_tirelire">Modifier le nom de la tirelire</string>
+    <string name="toast_piggybank_deleted">Tirelire supprimée</string>
+    <string name="title_alerte_edit_montant">Changer le contenu de la tirelire:</string>
+    <string name="toast_montant_modifié">Montant modifié.</string>
+    <string name="title_alerte_edit_nom">Changer le nom de votre tirelire:</string>
+    <string name="toast_nom_modifié">Nom changé.</string>
+    <string name="cancel">Annuler</string>
+    <string name="add_expense">Ajoutez une dépense:</string>
+    <string name="titre">Titre</string>
+    <string name="montant">Montant de la dépense en euros</string>
+    <string name="commentaire">Commentaire</string>
+    <string name="input_jour">Le jour de la dépense (entre 1 et 31)</string>
+    <string name="toast_depense_cree">Dépense créé</string>
+    <string name="jour">Jour</string>
+    <string name="after_expense">Après dépense:</string>
+    <string name="text_notif">Avez-vous dépensé de l argent aujourd hui ?</string>
+    <string name="welcome">Bienvenue sur PiggyBank</string>
+    <string name="show_expense">Afficher les dépenses</string>
+    <string name="edit_expense" >Edit expense:</string>
+    <string name="toast_depense_deleted">Dépense supprimée.</string>
+    <string name="toast_depense_modifié">Dépense modifiée.</string>
+    <string name="title_alerte_delete_tirelire">Etes vous sur de vouloir supprimer cette tirelire ?</string>
+</resources>

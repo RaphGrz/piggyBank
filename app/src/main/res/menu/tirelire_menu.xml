@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item_add_depense"
+        android:title="@string/ajouter_une_depense"
+    />
+    <item
+        android:id="@+id/menu_item_edit_name"
+        android:title="@string/edit_name_tirelire"
+    />
+    <item
+        android:id="@+id/menu_item_show_expense"
+        android:title="@string/show_expense"
+    />
+    <item
+        android:id="@+id/menu_item_delete"
+        android:title="@string/item_menu_supprimer_tirelire"
+    />
+
+</menu>

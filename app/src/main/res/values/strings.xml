@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PiggyBank</string>
+    <string name="txt_btn_create_piggy_bank">Create my piggy bank</string>
+    <string name="ex_name_piggy_bank">Your piggy bank name\'s</string>
+    <string name="txt_btn_piggy_bank_drawer">Open my piggy bank</string>
+    <string name="toastSaisieIncorrect">Incorrect input</string>
+    <string name="content_description_piggybank_image" translatable="false">piggyBank image</string>
+    <string name="item_menu_supprimer_tirelire">Delete the piggy bank</string>
+    <string name="ajouter_une_depense">Add expense</string>
+    <string name="edit_name_tirelire">Edit name of the piggy bank</string>
+    <string name="toast_piggybank_deleted">Piggybank deleted</string>
+    <string name="title_alerte_edit_montant">Change the contents of the piggy bank:</string>
+    <string name="toast_montant_modifié">Amount changed.</string>
+    <string name="title_alerte_edit_nom">Change the name of the piggy bank:</string>
+    <string name="toast_nom_modifié">Name changed.</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_expense">Add an expense:</string>
+    <string name="titre">Title</string>
+    <string name="montant">Amount of the expense in euros</string>
+    <string name="commentaire">Commentary</string>
+    <string name="input_jour">The day of the expense (between 1 and 31)</string>
+    <string name="toast_depense_cree">Expense created</string>
+    <string name="jour">Day</string>
+    <string name="after_expense">After expense:</string>
+    <string name="text_notif">Did you spend any money today ?</string>
+    <string name="welcome">Welcome to PiggyBank</string>
+    <string name="show_expense">Show all expenses</string>
+    <string name="edit_expense" >Edit expense:</string>
+    <string name="toast_depense_deleted">Expense deleted.</string>
+    <string name="toast_depense_modifié">Expense edited.</string>
+    <string name="title_alerte_delete_tirelire">Are you sure you want to remove this piggy bank ?</string>
+</resources>
